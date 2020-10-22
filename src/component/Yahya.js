@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Wassim() {
+function Yahya() {
     return (
         <div>
-            <h2>Hello Wassim</h2>
+            yahya
         </div>
     )
 }
+
+export default Yahya
